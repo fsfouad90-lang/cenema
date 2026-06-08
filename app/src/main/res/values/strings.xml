@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CinemaFlow</string>
+    <string name="trending_now">Trending Now</string>
+    <string name="action_movies">Action Movies</string>
+    <string name="comedy_movies">Comedy Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="rating_label">Rating: %1$s</string>
+    <string name="release_date_label">Released: %1$s</string>
+    <string name="overview_label">Overview</string>
+    <string name="error_fetching">Failed to fetch movies. Please try again.</string>
+    <string name="retry_button">Retry</string>
+    <string name="search_placeholder">Search cinema...</string>
+    <string name="loading">Loading movies...</string>
+    <string name="movie_id_label">Movie ID: %1$d</string>
+    <string name="play_button_label">Play Movie</string>
+    <string name="paywall_title">Premium Required</string>
+    <string name="paywall_message">This content requires a Premium account. Upgrade today to instantly stream this title and unlock unlimited cinematic access!</string>
+    <string name="upgrade_button">Upgrade to Premium</string>
+    <string name="dismiss">Maybe Later</string>
+</resources>

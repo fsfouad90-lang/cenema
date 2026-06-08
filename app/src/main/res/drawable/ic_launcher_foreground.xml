@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Safe zone group (bounds 21,21 to 87,87 is 66dp) -->
+    <group>
+        <!-- Stylized Cinematic Glow behind the emblem -->
+        <path
+            android:fillColor="#224F46E5"
+            android:pathData="M54,54m-28,0a28,28 0,1 1,56 0a28,28 0,1 1,-56 0" />
+
+        <!-- Bold 'C' Monogram (Outer Curved Film Reel Frame) -->
+        <path
+            android:fillColor="#4F46E5"
+            android:pathData="M70,38 C66,32 59,30 52,30 C39,30 28,41 28,54 C28,67 39,78 52,78 C59,78 66,76 70,70 L75,75 C69,82 61,84 52,84 C35,84 22,71 22,54 C22,37 35,24 52,24 C61,24 69,26 75,33 Z" />
+
+        <!-- Dynamic High-contrast Gold Play button inside 'C' -->
+        <path
+            android:fillColor="#FFB800"
+            android:pathData="M44,40 L68,54 L44,68 Z" />
+
+        <!-- Accentuating Cinema Flow Spark/Star on top-right -->
+        <path
+            android:fillColor="#8B5CF6"
+            android:pathData="M74,32 L76,36 L80,38 L76,40 L74,44 L72,40 L68,38 L72,36 Z" />
+    </group>
+</vector>

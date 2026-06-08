@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782207947266",
+    "project_id": "cenema-dz",
+    "storage_bucket": "cenema-dz.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782207947266:android:0d44193fc79632d43a8d1b",
+        "android_client_info": {
+          "package_name": "com.cenema.dz2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj_d8RwAVYJMjCpibo--p21cORxPxJriw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

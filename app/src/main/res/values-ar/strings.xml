@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">سينما فلو</string>
+    <string name="trending_now">الرائجة الآن</string>
+    <string name="action_movies">أفلام الحركة والإثارة</string>
+    <string name="comedy_movies">الأفلام الكوميدية</string>
+    <string name="movie_details">تفاصيل الفيلم</string>
+    <string name="rating_label">التقييم: %1$s</string>
+    <string name="release_date_label">تاريخ الإصدار: %1$s</string>
+    <string name="overview_label">نبذة عن الفيلم</string>
+    <string name="error_fetching">فشل تحميل الأفلام. يرجى المحاولة مجدداً.</string>
+    <string name="retry_button">إعادة المحاولة</string>
+    <string name="search_placeholder">البحث في السينما...</string>
+    <string name="loading">جاري تحميل الأفلام...</string>
+    <string name="movie_id_label">رقم الفيلم: %1$d</string>
+    <string name="play_button_label">تشغيل الفيلم</string>
+    <string name="paywall_title">مطلوب حساب مميز</string>
+    <string name="paywall_message">يتطلب هذا المحتوى حساباً مميزاً (Premium). قم بالترقية اليوم لبدء المشاهدة فوراً والاستمتاع بتدفق سينمائي غير محدود!</string>
+    <string name="upgrade_button">الترقية لعضوية مميزة</string>
+    <string name="dismiss">ربما لاحقاً</string>
+</resources>

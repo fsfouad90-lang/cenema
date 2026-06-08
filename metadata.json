@@ -1,0 +1,6 @@
+{
+  "name": "CinemaFlow",
+  "description": "A feature-rich Native Android Movie Streaming App with Firebase Auth, premium upgrades, TMDB integration, and high-performance immersive video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
