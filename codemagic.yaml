@@ -21,7 +21,6 @@ workflows:
           echo "FIREBASE_APP_ID=$FIREBASE_APP_ID" >> .env
       - name: Build Android Debug APK
         script: |
-          chmod +x gradlew
-          ./gradlew assembleDebug
+          gradle assembleDebug
     artifacts:
       - app/build/outputs/apk/debug/*.apk
